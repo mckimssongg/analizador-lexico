@@ -16,5 +16,6 @@ namespace analizador_lexico
         {
             InitializeComponent();
         }
+        
     }
 }
